@@ -1,5 +1,5 @@
 body {
-  background: hsl(225, 100%, 94%) url(images/pattern-background-desktop.svg) top left no-repeat;
+  background: hsl(225, 100%, 94%) url(pattern-background-desktop.svg) top left no-repeat;
   font-family: 'Red Hat Display', sans-serif;
   margin: 0;
 }
